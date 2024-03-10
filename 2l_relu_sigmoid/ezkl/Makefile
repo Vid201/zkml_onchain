@@ -17,7 +17,7 @@ prove:
 	ezkl prove --witness witness.json -M network.ezkl --proof-path model.pf --pk-path pk.key --srs-path=kzg.srs
 
 deploy:
-	ezkl deploy-evm-verifier --addr-path=addr.txt --rpc-url=${RPC_URL} --sol-code-path verify.sol 
+	ezkl deploy-evm-verifier --addr-path=addr.txt --rpc-url=${RPC_URL} --sol-code-path verify.sol --private-key=${PRIVATE_KEY}
 
 verify:
 	ezkl verify-evm --proof-path model.pf --addr=$(cat addr.txt) --rpc-url=${RPC_URL}

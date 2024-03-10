@@ -10,7 +10,7 @@
 
 **Sierra version:** 1.5.0
 
-**Starkli version:** 0.2.6
+**Starkli version:** 0.2.7
 
 **snforge version:** 0.19.0
 
@@ -20,9 +20,9 @@
 
 **Deployer address:** 0x3079de9ac27e0d498376b8568f04b8fd3b16c585c68c5b050ea7664cfeeca42
 
-**Class hash:** 0x00570dec3495b34e987d9ef03e99534f23b83be1c1d1b6be64b8f7afa9208a94
+**Class hash:** 0x018cd501e556095a0e497f9d837d833208faf633a9af28e74b039676e49d63ff
 
-**Smart contract address:** 0x02decf0b2e767ccedb6240e28491a584edf7e9da607dd9d22c06b11c9ac37c87
+**Smart contract address:** 0x02fc559b83284e623e0520e7f80615511c716fc2e553f0905ddfa7c037c25e79
 
 ## Commands
 
