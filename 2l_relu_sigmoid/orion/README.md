@@ -2,6 +2,8 @@
 
 ## Tools versions
 
+**Giza CLI version:** 0.13.0
+
 **Orion commit hash:** 74e63f34275e257cf21ce13c440b1940bff812ca
 
 **Cairo version:** 2.6.2

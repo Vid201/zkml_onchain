@@ -1,5 +1,10 @@
 include .env
 
+# this is done using Giza CLI
+# uncomment and login to Giza platform
+# transpile:
+# 	giza transpile network.onnx --output-path model
+
 build:
 	cd model
 	scarb build
