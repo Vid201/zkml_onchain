@@ -1,0 +1,15 @@
+[package]
+name = "model_2l_fc_relu"
+version = "0.1.0"
+edition = "2023_10"
+
+[dependencies]
+starknet = ">=2.5.3"
+node_aff1_weight = { path = "../initializers/node_aff1_weight"} 
+node_aff1_bias = { path = "../initializers/node_aff1_bias"} 
+orion = { git = "https://github.com/gizatechxyz/orion.git", rev = "74e63f34275e257cf21ce13c440b1940bff812ca" } 
+
+[lib]
+sierra-text = true
+
+[[target.starknet-contract]]

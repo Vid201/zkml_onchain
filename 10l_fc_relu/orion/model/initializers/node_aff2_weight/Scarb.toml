@@ -1,0 +1,9 @@
+[package]
+name = "node_aff2_weight"
+version = "0.1.0"
+edition = "2023_10"
+
+[dependencies]
+orion = { git = "https://github.com/gizatechxyz/orion.git", rev = "74e63f34275e257cf21ce13c440b1940bff812ca" } 
+[lib]
+sierra-text = true

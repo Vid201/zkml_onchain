@@ -1,4 +1,4 @@
-*/orion/target
-*/orion/.snfoundry_cache
-*/orion/*/.snfoundry_cache
-10l_relu_fc/ezkl/pk.key
+*/orion/*/*/.snfoundry_cache
+*/orion/*/*/target
+10l_fc_relu/ezkl/pk.key
+10l_fc_sigmoid/ezkl/pk.key

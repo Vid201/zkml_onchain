@@ -1,0 +1,33 @@
+[package]
+name = "model_10l_fc_relu"
+version = "0.1.0"
+edition = "2023_10"
+
+[dependencies]
+starknet = ">=2.5.3"
+node_aff1_weight = { path = "../initializers/node_aff1_weight"} 
+node_aff1_bias = { path = "../initializers/node_aff1_bias"} 
+node_aff2_weight = { path = "../initializers/node_aff2_weight"} 
+node_aff2_bias = { path = "../initializers/node_aff2_bias"} 
+node_aff3_weight = { path = "../initializers/node_aff3_weight"} 
+node_aff3_bias = { path = "../initializers/node_aff3_bias"} 
+node_aff4_weight = { path = "../initializers/node_aff4_weight"} 
+node_aff4_bias = { path = "../initializers/node_aff4_bias"} 
+node_aff5_weight = { path = "../initializers/node_aff5_weight"} 
+node_aff5_bias = { path = "../initializers/node_aff5_bias"} 
+node_aff6_weight = { path = "../initializers/node_aff6_weight"} 
+node_aff6_bias = { path = "../initializers/node_aff6_bias"} 
+node_aff7_weight = { path = "../initializers/node_aff7_weight"} 
+node_aff7_bias = { path = "../initializers/node_aff7_bias"} 
+node_aff8_weight = { path = "../initializers/node_aff8_weight"} 
+node_aff8_bias = { path = "../initializers/node_aff8_bias"} 
+node_aff9_weight = { path = "../initializers/node_aff9_weight"} 
+node_aff9_bias = { path = "../initializers/node_aff9_bias"} 
+node_aff10_weight = { path = "../initializers/node_aff10_weight"} 
+node_aff10_bias = { path = "../initializers/node_aff10_bias"} 
+orion = { git = "https://github.com/gizatechxyz/orion.git", rev = "74e63f34275e257cf21ce13c440b1940bff812ca" } 
+
+[lib]
+sierra-text = true
+
+[[target.starknet-contract]]
