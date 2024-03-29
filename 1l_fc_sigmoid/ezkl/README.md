@@ -1,4 +1,4 @@
-# 2l_fc_sigmoid - EZKL
+# 1l_fc_sigmoid - EZKL
 
 ## Tools versions
 

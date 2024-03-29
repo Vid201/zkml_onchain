@@ -11,7 +11,7 @@ mod tests {
     use node_aff1_weight::get_node_aff1_weight;
     use node_aff1_bias::get_node_aff1_bias;
 
-    use model_2l_fc_relu::input::input;
+    use model_1l_fc_relu::input::input;
 
     use core::debug::PrintTrait;
 

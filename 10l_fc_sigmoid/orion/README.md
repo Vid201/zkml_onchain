@@ -1,4 +1,4 @@
-# 2l_relu_sigmoid - Orion
+# 10l_relu_sigmoid - Orion
 
 ## Tools versions
 

@@ -1,4 +1,4 @@
-# 2l_fc_relu - EZKL
+# 1l_fc_relu - EZKL
 
 ## Tools versions
 

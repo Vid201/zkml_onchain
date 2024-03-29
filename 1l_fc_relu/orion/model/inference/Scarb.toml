@@ -1,5 +1,5 @@
 [package]
-name = "model_2l_fc_relu"
+name = "model_1l_fc_relu"
 version = "0.1.0"
 edition = "2023_10"
 
